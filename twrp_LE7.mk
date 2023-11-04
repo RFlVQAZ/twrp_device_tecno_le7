@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := TECNO_LE7n
+PRODUCT_RELEASE_NAME := TECNO_LE7
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 # Inherit from those products. Most specific first.
@@ -32,8 +32,8 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/TECNO/TECNO_LE7n/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := TECNO_LE7n
-PRODUCT_NAME := twrp_TECNO_LE7n
+PRODUCT_DEVICE := LE7
+PRODUCT_NAME := twrp_LE7
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO LE7n
+PRODUCT_MODEL := TECNO LE7
 PRODUCT_MANUFACTURER := TECNO MOBILE LIMITED
