@@ -18,7 +18,7 @@
 
 # Allow building with minimal manifest
 
-DEVICE_PATH := device/TECNO/TECNO_LE7n
+DEVICE_PATH := device/TECNO/LE7
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -49,7 +49,7 @@ TW_OEM_BUILD := false
 TW_DEVICE_VERSION := by-artemscine
 
 # Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := TECNO_LE7n
+TARGET_BOOTLOADER_BOARD_NAME := TECNO_LE7
 TARGET_NO_BOOTLOADER := true
 
 # Platform
