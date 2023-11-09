@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := TECNO_LE7
+PRODUCT_RELEASE_NAME := LE7
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 # Inherit from those products. Most specific first.
