@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/TECNO/LE7
+LOCAL_PATH := device/TECNO/TECNO_LE7
 PRODUCT_PLATFORM := mt6768
 
 # V A/B
